@@ -800,6 +800,46 @@
         "category": "Magic"
     },
     {
+        "entity": "Base Skywarden",
+        "category": "Magic"
+    },
+    {
+        "entity": "Wind Weaver",
+        "category": "Magic"
+    },
+    {
+        "entity": "Galvanic Conduit",
+        "category": "Magic"
+    },
+    {
+        "entity": "Coldchain",
+        "category": "Magic"
+    },
+    {
+        "entity": "Galesage",
+        "category": "Magic"
+    },
+    {
+        "entity": "Thunder's Decree",
+        "category": "Magic"
+    },
+    {
+        "entity": "Frozen Verdict",
+        "category": "Magic"
+    },
+    {
+        "entity": "Farwind Seer",
+        "category": "Magic"
+    },
+    {
+        "entity": "Stormwrath Archon",
+        "category": "Magic"
+    },
+    {
+        "entity": "Winter's Mercy",
+        "category": "Magic"
+    },
+    {
         "entity": "Base Farm",
         "category": "Support"
     },
@@ -1068,6 +1108,10 @@
         "category": "Hero"
     },
     {
+        "entity": "Dan",
+        "category": "Hero"
+    },
+    {
         "entity": "Apex Plasma Master",
         "category": "Paragon"
     },
@@ -1088,6 +1132,10 @@
         "category": "Paragon"
     },
     {
+        "entity": "S.p.i.d.e.r. Monkey",
+        "category": "Paragon"
+    },
+    {
         "entity": "Nautic Siege Core",
         "category": "Paragon"
     },
@@ -1105,6 +1153,10 @@
     },
     {
         "entity": "Ascended Shadow",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Root Of All Nature",
         "category": "Paragon"
     },
     {
