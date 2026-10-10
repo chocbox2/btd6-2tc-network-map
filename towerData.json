@@ -1,0 +1,1118 @@
+[
+    {
+        "entity": "Base Dart",
+        "category": "Primary"
+    },
+    {
+        "entity": "Spike-O-Pult",
+        "category": "Primary"
+    },
+    {
+        "entity": "Triple Shot",
+        "category": "Primary"
+    },
+    {
+        "entity": "Crossbow",
+        "category": "Primary"
+    },
+    {
+        "entity": "Juggernaut",
+        "category": "Primary"
+    },
+    {
+        "entity": "Super Monkey Fan Club",
+        "category": "Primary"
+    },
+    {
+        "entity": "Sharp Shooter",
+        "category": "Primary"
+    },
+    {
+        "entity": "Ultra-Juggernaut",
+        "category": "Primary"
+    },
+    {
+        "entity": "Plasma Monkey Fan Club",
+        "category": "Primary"
+    },
+    {
+        "entity": "Crossbow Master",
+        "category": "Primary"
+    },
+    {
+        "entity": "Base Boomer",
+        "category": "Primary"
+    },
+    {
+        "entity": "Glaive Ricochet",
+        "category": "Primary"
+    },
+    {
+        "entity": "Bionic Boomerang",
+        "category": "Primary"
+    },
+    {
+        "entity": "Kylie Boomerang",
+        "category": "Primary"
+    },
+    {
+        "entity": "M.o.a.r Glaives",
+        "category": "Primary"
+    },
+    {
+        "entity": "Turbo Charge",
+        "category": "Primary"
+    },
+    {
+        "entity": "Moab Press",
+        "category": "Primary"
+    },
+    {
+        "entity": "Glaive Lord",
+        "category": "Primary"
+    },
+    {
+        "entity": "Perma Charge",
+        "category": "Primary"
+    },
+    {
+        "entity": "Moab Domination",
+        "category": "Primary"
+    },
+    {
+        "entity": "Base Bomb",
+        "category": "Primary"
+    },
+    {
+        "entity": "Really Big Bombs",
+        "category": "Primary"
+    },
+    {
+        "entity": "Moab Mauler",
+        "category": "Primary"
+    },
+    {
+        "entity": "Cluster Bombs",
+        "category": "Primary"
+    },
+    {
+        "entity": "Bloon Impact",
+        "category": "Primary"
+    },
+    {
+        "entity": "Moab Assassin",
+        "category": "Primary"
+    },
+    {
+        "entity": "Recursive Cluster",
+        "category": "Primary"
+    },
+    {
+        "entity": "Bloon Crush",
+        "category": "Primary"
+    },
+    {
+        "entity": "Moab Eliminator",
+        "category": "Primary"
+    },
+    {
+        "entity": "Bomb Blitz",
+        "category": "Primary"
+    },
+    {
+        "entity": "Base Tack",
+        "category": "Primary"
+    },
+    {
+        "entity": "Hot Shots",
+        "category": "Primary"
+    },
+    {
+        "entity": "Blade Shooter",
+        "category": "Primary"
+    },
+    {
+        "entity": "Tack Sprayer",
+        "category": "Primary"
+    },
+    {
+        "entity": "Ring Of Fire",
+        "category": "Primary"
+    },
+    {
+        "entity": "Blade Maelstrom",
+        "category": "Primary"
+    },
+    {
+        "entity": "Overdrive",
+        "category": "Primary"
+    },
+    {
+        "entity": "Inferno Ring",
+        "category": "Primary"
+    },
+    {
+        "entity": "Super Maelstrom",
+        "category": "Primary"
+    },
+    {
+        "entity": "The Tack Zone",
+        "category": "Primary"
+    },
+    {
+        "entity": "Base Ice",
+        "category": "Primary"
+    },
+    {
+        "entity": "Ice Shards",
+        "category": "Primary"
+    },
+    {
+        "entity": "Arctic Wind",
+        "category": "Primary"
+    },
+    {
+        "entity": "Cryo Cannon",
+        "category": "Primary"
+    },
+    {
+        "entity": "Embrittlement",
+        "category": "Primary"
+    },
+    {
+        "entity": "Snowstorm",
+        "category": "Primary"
+    },
+    {
+        "entity": "Icicles",
+        "category": "Primary"
+    },
+    {
+        "entity": "Super Brittle",
+        "category": "Primary"
+    },
+    {
+        "entity": "Absolute Zero",
+        "category": "Primary"
+    },
+    {
+        "entity": "Icicle Impale",
+        "category": "Primary"
+    },
+    {
+        "entity": "Base Glue",
+        "category": "Primary"
+    },
+    {
+        "entity": "Bloon Dissolver",
+        "category": "Primary"
+    },
+    {
+        "entity": "Glue Hose",
+        "category": "Primary"
+    },
+    {
+        "entity": "Moab Glue",
+        "category": "Primary"
+    },
+    {
+        "entity": "Bloon Liquefier",
+        "category": "Primary"
+    },
+    {
+        "entity": "Glue Strike",
+        "category": "Primary"
+    },
+    {
+        "entity": "Relentless Glue",
+        "category": "Primary"
+    },
+    {
+        "entity": "The Bloon Solver",
+        "category": "Primary"
+    },
+    {
+        "entity": "Glue Storm",
+        "category": "Primary"
+    },
+    {
+        "entity": "Super Glue",
+        "category": "Primary"
+    },
+    {
+        "entity": "Base Desperado",
+        "category": "Primary"
+    },
+    {
+        "entity": "Big Iron",
+        "category": "Primary"
+    },
+    {
+        "entity": "Deadeye",
+        "category": "Primary"
+    },
+    {
+        "entity": "Enforcer",
+        "category": "Primary"
+    },
+    {
+        "entity": "Twin Sixes",
+        "category": "Primary"
+    },
+    {
+        "entity": "Bounty Hunter",
+        "category": "Primary"
+    },
+    {
+        "entity": "Avenger",
+        "category": "Primary"
+    },
+    {
+        "entity": "The Blazing Sun",
+        "category": "Primary"
+    },
+    {
+        "entity": "Golden Justice",
+        "category": "Primary"
+    },
+    {
+        "entity": "The Desert Phantom",
+        "category": "Primary"
+    },
+    {
+        "entity": "Base Sniper",
+        "category": "Military"
+    },
+    {
+        "entity": "Deadly Precision",
+        "category": "Military"
+    },
+    {
+        "entity": "Bouncing Bullet",
+        "category": "Military"
+    },
+    {
+        "entity": "Semi Automatic",
+        "category": "Military"
+    },
+    {
+        "entity": "Maim Moab",
+        "category": "Military"
+    },
+    {
+        "entity": "Supply Drop",
+        "category": "Military"
+    },
+    {
+        "entity": "Full Auto Rifle",
+        "category": "Military"
+    },
+    {
+        "entity": "Cripple Moab",
+        "category": "Military"
+    },
+    {
+        "entity": "Elite Sniper",
+        "category": "Military"
+    },
+    {
+        "entity": "Elite Defender",
+        "category": "Military"
+    },
+    {
+        "entity": "Base Sub",
+        "category": "Military"
+    },
+    {
+        "entity": "Submerge And Support",
+        "category": "Military"
+    },
+    {
+        "entity": "Ballistic Missile",
+        "category": "Military"
+    },
+    {
+        "entity": "Triple Guns",
+        "category": "Military"
+    },
+    {
+        "entity": "Bloontonium Reactor",
+        "category": "Military"
+    },
+    {
+        "entity": "First Strike Capability",
+        "category": "Military"
+    },
+    {
+        "entity": "Armor Piercing Darts",
+        "category": "Military"
+    },
+    {
+        "entity": "Energizer",
+        "category": "Military"
+    },
+    {
+        "entity": "Pre-Emptive Strike",
+        "category": "Military"
+    },
+    {
+        "entity": "Sub Commander",
+        "category": "Military"
+    },
+    {
+        "entity": "Base Bucc",
+        "category": "Military"
+    },
+    {
+        "entity": "Destroyer",
+        "category": "Military"
+    },
+    {
+        "entity": "Cannon Ship",
+        "category": "Military"
+    },
+    {
+        "entity": "Merchantman",
+        "category": "Military"
+    },
+    {
+        "entity": "Aircraft Carrier",
+        "category": "Military"
+    },
+    {
+        "entity": "Monkey Pirates",
+        "category": "Military"
+    },
+    {
+        "entity": "Favored Trades",
+        "category": "Military"
+    },
+    {
+        "entity": "Carrier Flagship",
+        "category": "Military"
+    },
+    {
+        "entity": "Pirate Lord",
+        "category": "Military"
+    },
+    {
+        "entity": "Trade Empire",
+        "category": "Military"
+    },
+    {
+        "entity": "Base Ace",
+        "category": "Military"
+    },
+    {
+        "entity": "Fighter Plane",
+        "category": "Military"
+    },
+    {
+        "entity": "Bomber Ace",
+        "category": "Military"
+    },
+    {
+        "entity": "Neva-Miss Targeting",
+        "category": "Military"
+    },
+    {
+        "entity": "Operation: Dart Storm",
+        "category": "Military"
+    },
+    {
+        "entity": "Ground Zero",
+        "category": "Military"
+    },
+    {
+        "entity": "Spectre",
+        "category": "Military"
+    },
+    {
+        "entity": "Sky Shredder",
+        "category": "Military"
+    },
+    {
+        "entity": "Tsar Bomba",
+        "category": "Military"
+    },
+    {
+        "entity": "Flying Fortress",
+        "category": "Military"
+    },
+    {
+        "entity": "Base Heli",
+        "category": "Military"
+    },
+    {
+        "entity": "Razor Rotors",
+        "category": "Military"
+    },
+    {
+        "entity": "Downdraft",
+        "category": "Military"
+    },
+    {
+        "entity": "Moab Shove",
+        "category": "Military"
+    },
+    {
+        "entity": "Apache Dartship",
+        "category": "Military"
+    },
+    {
+        "entity": "Support Chinook",
+        "category": "Military"
+    },
+    {
+        "entity": "Comanche Defense",
+        "category": "Military"
+    },
+    {
+        "entity": "Apache Prime",
+        "category": "Military"
+    },
+    {
+        "entity": "Special Poperations",
+        "category": "Military"
+    },
+    {
+        "entity": "Comanche Commander",
+        "category": "Military"
+    },
+    {
+        "entity": "Base Mortar",
+        "category": "Military"
+    },
+    {
+        "entity": "Shell Shock",
+        "category": "Military"
+    },
+    {
+        "entity": "Heavy Shells",
+        "category": "Military"
+    },
+    {
+        "entity": "Signal Flare",
+        "category": "Military"
+    },
+    {
+        "entity": "The Big One",
+        "category": "Military"
+    },
+    {
+        "entity": "Artillery Battery",
+        "category": "Military"
+    },
+    {
+        "entity": "Shattering Shells",
+        "category": "Military"
+    },
+    {
+        "entity": "The Biggest One",
+        "category": "Military"
+    },
+    {
+        "entity": "Pop And Awe",
+        "category": "Military"
+    },
+    {
+        "entity": "Blooncineration",
+        "category": "Military"
+    },
+    {
+        "entity": "Base Dartling",
+        "category": "Military"
+    },
+    {
+        "entity": "Laser Cannon",
+        "category": "Military"
+    },
+    {
+        "entity": "Hydra Rocket Pods",
+        "category": "Military"
+    },
+    {
+        "entity": "Buckshot",
+        "category": "Military"
+    },
+    {
+        "entity": "Plasma Accelerator",
+        "category": "Military"
+    },
+    {
+        "entity": "Rocket Storm",
+        "category": "Military"
+    },
+    {
+        "entity": "Bloon Area Denial System",
+        "category": "Military"
+    },
+    {
+        "entity": "Ray Of Doom",
+        "category": "Military"
+    },
+    {
+        "entity": "M.a.d",
+        "category": "Military"
+    },
+    {
+        "entity": "Bloon Exclusion Zone",
+        "category": "Military"
+    },
+    {
+        "entity": "Base Wizard",
+        "category": "Magic"
+    },
+    {
+        "entity": "Arcane Mastery",
+        "category": "Magic"
+    },
+    {
+        "entity": "Dragon's Breath",
+        "category": "Magic"
+    },
+    {
+        "entity": "Shimmer",
+        "category": "Magic"
+    },
+    {
+        "entity": "Arcane Spike",
+        "category": "Magic"
+    },
+    {
+        "entity": "Summon Phoenix",
+        "category": "Magic"
+    },
+    {
+        "entity": "Necromancer",
+        "category": "Magic"
+    },
+    {
+        "entity": "Archmage",
+        "category": "Magic"
+    },
+    {
+        "entity": "Wizard Lord Phoenix",
+        "category": "Magic"
+    },
+    {
+        "entity": "Prince Of Darkness",
+        "category": "Magic"
+    },
+    {
+        "entity": "Base Super",
+        "category": "Magic"
+    },
+    {
+        "entity": "Sun Avatar",
+        "category": "Magic"
+    },
+    {
+        "entity": "Robo Monkey",
+        "category": "Magic"
+    },
+    {
+        "entity": "Dark Knight",
+        "category": "Magic"
+    },
+    {
+        "entity": "Sun Temple",
+        "category": "Magic"
+    },
+    {
+        "entity": "Tech Terror",
+        "category": "Magic"
+    },
+    {
+        "entity": "Dark Champion",
+        "category": "Magic"
+    },
+    {
+        "entity": "True Sun God",
+        "category": "Magic"
+    },
+    {
+        "entity": "The Anti-Bloon",
+        "category": "Magic"
+    },
+    {
+        "entity": "Legend Of The Night",
+        "category": "Magic"
+    },
+    {
+        "entity": "Base Ninja",
+        "category": "Magic"
+    },
+    {
+        "entity": "Double Shot",
+        "category": "Magic"
+    },
+    {
+        "entity": "Shinobi Tactics",
+        "category": "Magic"
+    },
+    {
+        "entity": "Flash Bomb",
+        "category": "Magic"
+    },
+    {
+        "entity": "Bloonjitsu",
+        "category": "Magic"
+    },
+    {
+        "entity": "Bloon Sabotage",
+        "category": "Magic"
+    },
+    {
+        "entity": "Sticky Bomb",
+        "category": "Magic"
+    },
+    {
+        "entity": "Grandmaster Ninja",
+        "category": "Magic"
+    },
+    {
+        "entity": "Grand Saboteur",
+        "category": "Magic"
+    },
+    {
+        "entity": "Master Bomber",
+        "category": "Magic"
+    },
+    {
+        "entity": "Base Alch",
+        "category": "Magic"
+    },
+    {
+        "entity": "Berserker Brew",
+        "category": "Magic"
+    },
+    {
+        "entity": "Unstable Concoction",
+        "category": "Magic"
+    },
+    {
+        "entity": "Lead To Gold",
+        "category": "Magic"
+    },
+    {
+        "entity": "Stronger Stimulant",
+        "category": "Magic"
+    },
+    {
+        "entity": "Transforming Tonic",
+        "category": "Magic"
+    },
+    {
+        "entity": "Rubber To Gold",
+        "category": "Magic"
+    },
+    {
+        "entity": "Permanent Brew",
+        "category": "Magic"
+    },
+    {
+        "entity": "Total Transformation",
+        "category": "Magic"
+    },
+    {
+        "entity": "Bloon Master Alchemist",
+        "category": "Magic"
+    },
+    {
+        "entity": "Base Druid",
+        "category": "Magic"
+    },
+    {
+        "entity": "Druid Of The Storm",
+        "category": "Magic"
+    },
+    {
+        "entity": "Druid Of The Jungle",
+        "category": "Magic"
+    },
+    {
+        "entity": "Druid Of Wrath",
+        "category": "Magic"
+    },
+    {
+        "entity": "Ball Lightning",
+        "category": "Magic"
+    },
+    {
+        "entity": "Jungle's Bounty",
+        "category": "Magic"
+    },
+    {
+        "entity": "Poplust",
+        "category": "Magic"
+    },
+    {
+        "entity": "Monarch Of Storms",
+        "category": "Magic"
+    },
+    {
+        "entity": "Spirit Of The Forest",
+        "category": "Magic"
+    },
+    {
+        "entity": "Avatar Of Wrath",
+        "category": "Magic"
+    },
+    {
+        "entity": "Base Mermonkey",
+        "category": "Magic"
+    },
+    {
+        "entity": "Abyss Dweller",
+        "category": "Magic"
+    },
+    {
+        "entity": "Riptide Champion",
+        "category": "Magic"
+    },
+    {
+        "entity": "Alluring Melody",
+        "category": "Magic"
+    },
+    {
+        "entity": "Abyssal Warrior",
+        "category": "Magic"
+    },
+    {
+        "entity": "Arctic Knight",
+        "category": "Magic"
+    },
+    {
+        "entity": "Symphonic Resonance",
+        "category": "Magic"
+    },
+    {
+        "entity": "Lord Of The Abyss",
+        "category": "Magic"
+    },
+    {
+        "entity": "Popseidon",
+        "category": "Magic"
+    },
+    {
+        "entity": "The Final Harmonic",
+        "category": "Magic"
+    },
+    {
+        "entity": "Base Farm",
+        "category": "Support"
+    },
+    {
+        "entity": "Banana Plantation",
+        "category": "Support"
+    },
+    {
+        "entity": "Monkey Bank",
+        "category": "Support"
+    },
+    {
+        "entity": "Marketplace",
+        "category": "Support"
+    },
+    {
+        "entity": "Banana Research Facility",
+        "category": "Support"
+    },
+    {
+        "entity": "Imf Loan",
+        "category": "Support"
+    },
+    {
+        "entity": "Central Market",
+        "category": "Support"
+    },
+    {
+        "entity": "Banana Central",
+        "category": "Support"
+    },
+    {
+        "entity": "Monkey-Nomics",
+        "category": "Support"
+    },
+    {
+        "entity": "Monkey Wall Street",
+        "category": "Support"
+    },
+    {
+        "entity": "Base Spact",
+        "category": "Support"
+    },
+    {
+        "entity": "Spiked Balls",
+        "category": "Support"
+    },
+    {
+        "entity": "Moab Shredr",
+        "category": "Support"
+    },
+    {
+        "entity": "Long Life Spikes",
+        "category": "Support"
+    },
+    {
+        "entity": "Spiked Mines",
+        "category": "Support"
+    },
+    {
+        "entity": "Spike Storm",
+        "category": "Support"
+    },
+    {
+        "entity": "Deadly Spikes",
+        "category": "Support"
+    },
+    {
+        "entity": "Super Mines",
+        "category": "Support"
+    },
+    {
+        "entity": "Carpet Of Spikes",
+        "category": "Support"
+    },
+    {
+        "entity": "Perma-Spike",
+        "category": "Support"
+    },
+    {
+        "entity": "Base Village",
+        "category": "Support"
+    },
+    {
+        "entity": "Primary Training",
+        "category": "Support"
+    },
+    {
+        "entity": "Monkey Intelligence Bureau",
+        "category": "Support"
+    },
+    {
+        "entity": "Monkey Town",
+        "category": "Support"
+    },
+    {
+        "entity": "Primary Mentoring",
+        "category": "Support"
+    },
+    {
+        "entity": "Call To Arms",
+        "category": "Support"
+    },
+    {
+        "entity": "Monkey City",
+        "category": "Support"
+    },
+    {
+        "entity": "Primary Expertise",
+        "category": "Support"
+    },
+    {
+        "entity": "Homeland Defense",
+        "category": "Support"
+    },
+    {
+        "entity": "Monkeyopolis",
+        "category": "Support"
+    },
+    {
+        "entity": "Base Engi",
+        "category": "Support"
+    },
+    {
+        "entity": "Sprockets",
+        "category": "Support"
+    },
+    {
+        "entity": "Cleansing Foam",
+        "category": "Support"
+    },
+    {
+        "entity": "Double Gun",
+        "category": "Support"
+    },
+    {
+        "entity": "Sentry Expert",
+        "category": "Support"
+    },
+    {
+        "entity": "Overclock",
+        "category": "Support"
+    },
+    {
+        "entity": "Bloon Trap",
+        "category": "Support"
+    },
+    {
+        "entity": "Sentry Champion",
+        "category": "Support"
+    },
+    {
+        "entity": "Ultraboost",
+        "category": "Support"
+    },
+    {
+        "entity": "Xxxl Trap",
+        "category": "Support"
+    },
+    {
+        "entity": "Base Beast",
+        "category": "Support"
+    },
+    {
+        "entity": "Great White",
+        "category": "Support"
+    },
+    {
+        "entity": "Velociraptor",
+        "category": "Support"
+    },
+    {
+        "entity": "Golden Eagle",
+        "category": "Support"
+    },
+    {
+        "entity": "Orca",
+        "category": "Support"
+    },
+    {
+        "entity": "Tyrannosaurus Rex",
+        "category": "Support"
+    },
+    {
+        "entity": "Giant Condor",
+        "category": "Support"
+    },
+    {
+        "entity": "Megalodon",
+        "category": "Support"
+    },
+    {
+        "entity": "Giganotosaurus",
+        "category": "Support"
+    },
+    {
+        "entity": "Pouākai",
+        "category": "Support"
+    },
+    {
+        "entity": "Quincy",
+        "category": "Hero"
+    },
+    {
+        "entity": "Gwen",
+        "category": "Hero"
+    },
+    {
+        "entity": "Jones",
+        "category": "Hero"
+    },
+    {
+        "entity": "Obyn",
+        "category": "Hero"
+    },
+    {
+        "entity": "Churchill",
+        "category": "Hero"
+    },
+    {
+        "entity": "Benjamin",
+        "category": "Hero"
+    },
+    {
+        "entity": "Ezili",
+        "category": "Hero"
+    },
+    {
+        "entity": "Pat",
+        "category": "Hero"
+    },
+    {
+        "entity": "Adora",
+        "category": "Hero"
+    },
+    {
+        "entity": "Brickell",
+        "category": "Hero"
+    },
+    {
+        "entity": "Etienne",
+        "category": "Hero"
+    },
+    {
+        "entity": "Sauda",
+        "category": "Hero"
+    },
+    {
+        "entity": "Psi",
+        "category": "Hero"
+    },
+    {
+        "entity": "Geraldo",
+        "category": "Hero"
+    },
+    {
+        "entity": "Corvus",
+        "category": "Hero"
+    },
+    {
+        "entity": "Rosalia",
+        "category": "Hero"
+    },
+    {
+        "entity": "Silas",
+        "category": "Hero"
+    },
+    {
+        "entity": "Apex Plasma Master",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Glaive Dominus",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Ballistic Obliteration Missile Bunker",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Crucible Of Steel And Flame",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Herald Of Everfrost",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Nautic Siege Core",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Navarch of the Seas",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Goliath Doomship",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Magus Perfectus",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Ascended Shadow",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Mega Massive Munitions Factory",
+        "category": "Paragon"
+    },
+    {
+        "entity": "Master Builder",
+        "category": "Paragon"
+    }
+]

@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>2TC Network</title>
+
+    <!-- Bootstrap Framework: if you want to make HTML handling simpler -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Google Font: DM Serif Display + Source Sans 3 (an example set of fonts that go together) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Loading D3 -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+
+  <body class="bg-light">
+    <div class="container py-5">
+      <h1 class="text-center mb-3 mt-5">BTD6 Challenge Data</h1>
+      <h5 class="text-center mb-5">Assignment 3</h5>
+
+      <div class="row g-4 mb-4">
+        <div class="col-md-6 offset-md-3">
+          <p>
+            Data sourced from <a href="https://btd6index.win/2tc">BTD6 Index 2TC API.</a> Data last sourced 2/17/26. <br> 
+            This visualization represents the "Two Towers CHIMPS" challenge in the game, the challenge where you must finish the gamemode "CHIMPS" with exactly two towers.<br>
+            In the game, the towers are sorted into categories based on their traits, represented by the different colors of nodes. <br>
+            Each link between towers represents a tower combination that synergizes well enough to win the challenge. <br>
+            Think of this like a "social media network" of towers, where the links represent a connection between towers. <br>
+          </p>
+        </div>
+      </div>
+
+      <div class="row g-4 mb-4">
+        <div class="col-md-12 text-center">
+          <h3>2 Towers CHIMPS Network Map</h3>
+        </div>
+      </div>
+        <div class="row g-4 mb-4">
+        <div class="col-md-6 offset-md-3">
+          <p>
+          Hover over a tower node to see the name of the tower and # of connections the tower has. <br>
+          Larger nodes have more connections <br>
+          Click on a tower to highlight it and any connected towers. Click again to deselect.<br>
+          Drag the tower along the map to change the layout of the network. On release, forces will pull the tower back into equilibrium,
+          based on it's connected towers<br>
+          </p>
+        </div>
+      </div>
+      <!-- ===== D3 variants ===== -->
+        <div class="row g-4 mb-4">
+        <div class="col-12">
+          <div class="card shadow">
+            <div class="card-body">
+              <svg id="d3-btd6" style="height: 1000px"></svg>
+            </div>
+          </div>
+        </div>
+  </body>
+
+  <script src="/js/d3-btd6.js"></script>
+</html>
