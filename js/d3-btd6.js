@@ -3,7 +3,7 @@ d3.json("2tcdata.json").then(twoTCData => {
 d3.json("towerData.json").then(towerData => {
 
 // Links for the graph
-const two_tc_links = twoTCData.filter(item => item.og == 1)
+const two_tc_links = twoTCData.filter(item => item.og == true)
 .map(item => {
     let towers = [item.tower1, item.tower2]
     towers.sort()
