@@ -1,5 +1,5 @@
 // Tower Data and TwoTc Data
-d3.json("2tcData.json").then(twoTCData => {
+d3.json("2tcdata.json").then(twoTCData => {
 d3.json("towerData.json").then(towerData => {
 
 // Links for the graph
